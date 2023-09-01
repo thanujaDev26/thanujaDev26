@@ -36,8 +36,4 @@ I am a tech enthusiast who always try to research new stuffs about technology an
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thanuja26"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thanuja26" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanujadev26&show_icons=true&locale=en&layout=compact" alt="thanujadev26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanujadev26&show_icons=true&locale=en" alt="thanujadev26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanujadev26&" alt="thanujadev26" /></p>
