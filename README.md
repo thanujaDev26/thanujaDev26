@@ -18,18 +18,6 @@ I am a tech enthusiast who always tries to research new stuff about technology a
 
 - 📫 How to reach me **thanujapriyadarshane26@gmail.com**
 
-<style>
-  .social-icons, .tech-stack, .programming-languages, .frameworks, .operating-systems, .testing-deployment, .cloud-services {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  .social-icons img, .tech-stack img, .programming-languages img, .frameworks img, .operating-systems img, .testing-deployment img, .cloud-services img {
-    margin: 10px;
-  }
-</style>
-
 <h3 align="left">Connect with me:</h3>
 <p class="social-icons">
   <a href="https://linkedin.com/in/thanuja-priyadarshane" target="blank">
