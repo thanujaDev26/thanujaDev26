@@ -7,7 +7,7 @@ I am a tech enthusiast who always tries to research new stuff about technology a
 ![thanujaDev26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanujaDev26&theme=radical&hide_border=false)
 
 <h1 align="center">Hi 👋, I'm Thanuja Priyadarshane</h1>
-<h3 align="center">Tech Enthusiast | Web Developer</h3>
+<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanujadev26&label=Profile%20views&color=0e75b6&style=flat" alt="thanujadev26" /> </p>
 
