@@ -34,9 +34,6 @@ I am a tech enthusiast who always tries to research new stuff about technology a
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a>
 </p>
 
 <h3 align="left">Programming Languages :</h3>
