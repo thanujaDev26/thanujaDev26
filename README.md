@@ -102,8 +102,9 @@ I am a tech enthusiast who always tries to research new stuff about technology a
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanuja-priyadarshane" height="30" width="40" />
   </a>
   <a href="https://imthanuja.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="imthanuja" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Globe_icon.svg" alt="imthanuja" height="30" width="40" />
 </a>
+
   <a href="https://facebook.com/thanuja.priyadarshana.14" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanuja-priyadarshane" height="30" width="40" />
   </a>
