@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### Who am I?
 
-I am a tech enthusiast who always tries to research new stuff about technology and use it to find solutions to the problems on this planet.
+Crafting seamless solutions while driving innovation in DevOps and modern web technologies
 
 ![thanujaDev26's Stats](https://github-readme-stats.vercel.app/api?username=thanujaDev26&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![thanujaDev26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanujaDev26&theme=radical&hide_border=false)
 
 <h1 align="center">Hi 👋, I'm Thanuja Priyadarshane</h1>
-<h3 align="center">Full Stack Developer | DevOps Explorer </h3>
+<h3 align="center">Full Stack Developer | DevOps Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanujadev26&label=Profile%20views&color=0e75b6&style=flat" alt="thanujadev26" /> </p>
 
@@ -20,22 +20,7 @@ I am a tech enthusiast who always tries to research new stuff about technology a
 
 
 
-<h3 align="left">Tech Stack for Web Development :</h3>
-<p class="tech-stack">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-</p>
-
+<h4 align="left">Tech Stack : </h4>
 <h3 align="left">Programming Languages :</h3>
 <p class="programming-languages">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -47,17 +32,40 @@ I am a tech enthusiast who always tries to research new stuff about technology a
  <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Frameworks :</h3>
-<p class="frameworks">
-  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/40732707?s=200&v=4" alt="Gin" width="40" height="40"/>
-</a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<h3 align="left">Libraries and Frameworks :</h3>
+<p class="tech-stack">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
 </a>
+
+<!-- Fiber (Golang) -->
+<a href="https://gofiber.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/gofiber/docs/blob/master/static/fiber_logo.svg" alt="Fiber" width="40" height="40"/>
+</a>
+
+<!-- Flutter -->
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</a>
+
 </p>
+
+
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
 
 <h3 align="left">CI/CD:</h3>
 <p class="ci-cd">
@@ -84,6 +92,9 @@ I am a tech enthusiast who always tries to research new stuff about technology a
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/>
+</a>
 </p>
 
 
