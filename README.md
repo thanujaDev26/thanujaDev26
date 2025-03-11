@@ -47,8 +47,9 @@ Crafting seamless solutions while driving innovation in DevOps and modern web te
   </a>
   <!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
+
 
 <!-- Fiber (Golang) -->
 <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
