@@ -52,9 +52,6 @@ Crafting seamless solutions while driving innovation in DevOps and modern web te
 
 
 <!-- Fiber (Golang) -->
-<a href="https://gofiber.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gofiber/docs/blob/master/static/fiber_logo.svg" alt="Fiber" width="40" height="40"/>
-</a>
 
 <!-- Flutter -->
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
