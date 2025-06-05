@@ -45,18 +45,11 @@
 #### Backend Technologies
 <p>
   <!-- Spring Boot logo (using spring.io official SVG) -->
-  <img
-  width="40"
-  alt="Spring Boot"
-  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cGF0aCBmaWxsPSIjMDBBNUZGIiBkPSJNMzIsMEMxNC4zLDAgMCwxNC4zIDAsMzJzMTQuMywzMiAzMiwzMiAzMi0xNC4zIDMyLTMyUzQ5LjcsMCAzMiwwek0zMS4xLDM0LjJjMS43LTIuNCA0LjItMy4zIDcuNS0zLjMgMy42LDAsNi42LDEuMyA4LjQsMy41IDAsMi4yLTEuNywzLjQtMy42LDMuNC0xLjgsMC0yLjktMC43LTMuOS0yLjFsLTIuOSwzLjRjMS42LDEuNyAzLjUsMi41IDYuNCwyLjUgNCwwIDcuMi0yLjggNy4yLTYuNSAwLTQuNi0zLjgtNy42LTguOS03LjZjLTMuOSwwLTcuMiwyLjEtOS4xLDUuNiIgLz4KPC9zdmc+"
-/>
+ 
 
   
   <!-- Gofiber fallback: Go logo + small text label -->
-  <span style="display:inline-flex; align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go" />
-    <small style="color:#a1e6a1; font-size: 0.7rem;">Fiber</small>
-  </span>
+  
   
   <!-- FastAPI logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
@@ -65,8 +58,7 @@
 #### Monitoring Tools
 <p>
   <!-- Zabbix: use a custom PNG (hosted on imgur for example) or fallback text -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Zabbix_logo.svg" width="40" alt="Zabbix" onerror="this.style.display='none'" />
-  <span style="color:#a1e6a1; font-size: 0.8rem;">Zabbix</span>
+ 
 </p>
 
 
