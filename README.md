@@ -1,6 +1,10 @@
 <!-- Profile Header -->
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px #00ff7f;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00ff7f&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B;I'm+Thanuja+Priyadarshane;Full+Stack+Developer+%7C+DevOps+Engineer;Lifelong+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center" style="background-color:#0d1117; padding: 25px 40px; border-radius: 12px; box-shadow: 0 0 10px #00ff7f;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00ff7f&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Thanuja+Priyadarshane;Full+Stack+Developer+%7C+DevOps+Engineer;Lifelong+Tech+Explorer+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+    style="max-width: 100%; white-space: nowrap;"
+  />
 </div>
 
 ---
