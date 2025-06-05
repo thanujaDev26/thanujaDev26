@@ -76,26 +76,27 @@
 <div align="center" style="display: flex; justify-content: center; gap: 24px; margin-top: 20px; flex-wrap: wrap;">
 
   <a href="https://linkedin.com/in/thanuja-priyadarshane" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" style="filter: invert(33%) sepia(100%) saturate(1100%) hue-rotate(185deg) brightness(100%) contrast(97%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
 
   <a href="https://facebook.com/thanuja.priyadarshana.14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" style="filter: invert(33%) sepia(95%) saturate(750%) hue-rotate(195deg) brightness(95%) contrast(90%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
 
   <a href="https://instagram.com/_thanuja10_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" style="filter: invert(36%) sepia(77%) saturate(7499%) hue-rotate(320deg) brightness(94%) contrast(108%);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="border-radius: 50%;" />
   </a>
 
   <a href="https://wa.me/94767274497" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" style="filter: invert(57%) sepia(84%) saturate(546%) hue-rotate(86deg) brightness(90%) contrast(90%);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>
 
   <a href="https://imthanuja.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" alt="Portfolio" width="40" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(254deg) brightness(103%) contrast(103%);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" style="border-radius: 12px;" />
   </a>
 
 </div>
+
 
 
 
