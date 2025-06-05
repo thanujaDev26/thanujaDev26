@@ -34,7 +34,6 @@
 ### 🧰 Tech Stack
 <div style="background-color:#121b22; padding: 20px; border-radius: 12px; box-shadow: 0 0 8px #00ff7f; color:#a1e6a1;">
 
-#### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="animation: pulse 2s infinite; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" style="animation: pulse 2s infinite; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
@@ -43,18 +42,6 @@
 </p>
 
 
-#### Backend Technologies
-<p>
-  <!-- Spring Boot logo (using spring.io official SVG) -->
- 
-
-  
-  <!-- Gofiber fallback: Go logo + small text label -->
-  
-  
-  <!-- FastAPI logo -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
-</p>
 
 #### Monitoring Tools
 <p>
@@ -63,11 +50,7 @@
 </p>
 
 
-#### Frontend Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
-</p>
+
 
 #### Databases
 <p>
