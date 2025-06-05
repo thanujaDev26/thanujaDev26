@@ -43,11 +43,7 @@
 
 
 
-#### Monitoring Tools
-<p>
-  <!-- Zabbix: use a custom PNG (hosted on imgur for example) or fallback text -->
- 
-</p>
+
 
 
 
