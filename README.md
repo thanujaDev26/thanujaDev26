@@ -71,17 +71,30 @@
 
 <!-- Connect Section -->
 ### 📬 Connect with Me
-<div style="display: flex; justify-content: center; gap: 12px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/thanuja-priyadarshane" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <a href="https://linkedin.com/in/thanuja-priyadarshane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/thanuja.priyadarshana.14" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+
+  <a href="https://facebook.com/thanuja.priyadarshana.14" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/_thanuja10_" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://instagram.com/_thanuja10_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+  <a href="https://wa.me/94767274497" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <a href="https://imthanuja.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+
 </div>
+
 
 ---
 
