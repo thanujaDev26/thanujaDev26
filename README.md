@@ -70,30 +70,33 @@
 ---
 
 <!-- Connect Section -->
+
 ### 📬 Connect with Me
-<div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+<div align="center" style="display: flex; justify-content: center; gap: 24px; margin-top: 20px; flex-wrap: wrap;">
 
   <a href="https://linkedin.com/in/thanuja-priyadarshane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" style="filter: invert(33%) sepia(100%) saturate(1100%) hue-rotate(185deg) brightness(100%) contrast(97%);" />
   </a>
 
   <a href="https://facebook.com/thanuja.priyadarshana.14" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" style="filter: invert(33%) sepia(95%) saturate(750%) hue-rotate(195deg) brightness(95%) contrast(90%);" />
   </a>
 
   <a href="https://instagram.com/_thanuja10_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" style="filter: invert(36%) sepia(77%) saturate(7499%) hue-rotate(320deg) brightness(94%) contrast(108%);" />
   </a>
 
   <a href="https://wa.me/94767274497" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" style="filter: invert(57%) sepia(84%) saturate(546%) hue-rotate(86deg) brightness(90%) contrast(90%);" />
   </a>
 
   <a href="https://imthanuja.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" alt="Portfolio" width="40" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(254deg) brightness(103%) contrast(103%);" />
   </a>
 
 </div>
+
 
 
 ---
