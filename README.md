@@ -31,8 +31,7 @@
 ---
 
 <!-- Tech Stack -->
-### 🧰 Tech Stack
-<div style="background-color:#121b22; padding: 20px; border-radius: 12px; box-shadow: 0 0 8px #00ff7f; color:#a1e6a1;">
+### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="animation: pulse 2s infinite; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
