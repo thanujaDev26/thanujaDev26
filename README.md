@@ -14,7 +14,8 @@
 <div style="background-color:#121b22; border-left: 5px solid #00ff7f; padding: 15px; border-radius: 8px; color:#a1e6a1;">
   🚀 Crafting seamless solutions while driving innovation in <b>DevOps</b> and <b>modern web technologies</b>.<br><br>
   - 💬 Ask me about Full Stack Web Dev, DevOps, or Cloud Native tools<br>
-  - 📫 Reach me: <code style="background:#002200; color:#00ff7f; padding: 2px 6px; border-radius:4px;">thanujapriyadarshane26@gmail.com</code>
+  - 📫 Reach me: <code style="background:#002200; color:#00ff7f; padding: 2px 6px; border-radius:4px;">thanujapriyadarshane26@gmail.com</code><br>
+  - 🌐 Portfolio: <a href="https://imthanuja.com" target="_blank" style="color:#00ff7f; text-decoration: underline;">imthanuja.com</a>
 </div>
 
 ---
