@@ -44,10 +44,26 @@
 
 #### Backend Technologies
 <p>
-  <img src="https://spring.io/images/spring-logo-2016-9f3407c5b2299f52b1929ff93b3909a3.svg" alt="Spring Boot" width="60" style="vertical-align:middle; margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://gofiber.io/favicon.ico" alt="Gofiber" width="40" style="vertical-align:middle; margin-left: 8px;" />
+  <!-- Spring Boot logo (using spring.io official SVG) -->
+  <img src="https://spring.io/images/projects/spring-boot-4f60e1ebde7c0e0e2808f9b9acda3b91.svg" width="40" alt="Spring Boot" />
+  
+  <!-- Gofiber fallback: Go logo + small text label -->
+  <span style="display:inline-flex; align-items:center; gap:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go" />
+    <small style="color:#a1e6a1; font-size: 0.7rem;">Fiber</small>
+  </span>
+  
+  <!-- FastAPI logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
 </p>
+
+#### Monitoring Tools
+<p>
+  <!-- Zabbix: use a custom PNG (hosted on imgur for example) or fallback text -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Zabbix_logo.svg" width="40" alt="Zabbix" onerror="this.style.display='none'" />
+  <span style="color:#a1e6a1; font-size: 0.8rem;">Zabbix</span>
+</p>
+
 
 #### Frontend Technologies
 <p>
