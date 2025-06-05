@@ -69,7 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Zabbix_logo.svg" alt="Zabbix" width="40" />
 </p>
 
 #### Cloud Providers
