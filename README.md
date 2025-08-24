@@ -26,7 +26,6 @@
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanujaDev26&theme=dark&hide_border=true&background=0d1117&stroke=00ff7f&fire=00ff7f" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=thanujaDev26&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
