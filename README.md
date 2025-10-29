@@ -10,12 +10,12 @@
 ---
 
 <!-- Summary -->
-### 👨‍💻 About Me
+### About Me
 <div style="background-color:#121b22; border-left: 5px solid #00ff7f; padding: 15px; border-radius: 8px; color:#a1e6a1;">
   🚀 Crafting seamless solutions while driving innovation in <b>DevOps</b> and <b>modern web technologies</b>.<br><br>
-  - 💬 Ask me about Full Stack Web Dev, DevOps, or Cloud Native tools<br>
-  - 📫 Reach me: <code style="background:#002200; color:#00ff7f; padding: 2px 6px; border-radius:4px;">thanujapriyadarshane26@gmail.com</code><br>
-  - 🌐 Portfolio: <a href="https://imthanuja.com" target="_blank" style="color:#00ff7f; text-decoration: underline;">imthanuja.com</a>
+  - Ask me about Full Stack Web Dev, DevOps, or Cloud Native tools<br>
+  - Reach me: <code style="background:#002200; color:#00ff7f; padding: 2px 6px; border-radius:4px;">thanujapriyadarshane26@gmail.com</code><br>
+  - Portfolio: <a href="https://imthanuja.com" target="_blank" style="color:#00ff7f; text-decoration: underline;">imthanuja.com</a>
 </div>
 
 ---
@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="margin: 12px;" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
@@ -50,13 +49,11 @@
 #### CI/CD & Tools
 <p>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="60" style="margin: 12px;"/>
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="60" style="margin: 12px;"/>
 </p>
 
 #### Deployment & Cloud
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" style="margin: 12px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" style="margin: 12px;"/>
 </p>
 
