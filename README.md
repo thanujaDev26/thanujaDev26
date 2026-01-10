@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/thanujaDev26/thanujaDev26/output/snake.svg" alt="Snake animation" />
 
 ###
