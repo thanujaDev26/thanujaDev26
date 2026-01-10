@@ -1,101 +1,100 @@
-<!-- Profile Header -->
-<div align="center" style="background-color:#0d1117; padding: 25px 40px; border-radius: 12px; box-shadow: 0 0 10px #00ff7f;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00ff7f&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Thanuja+Priyadarshane;Full+Stack+Developer+%7C+DevOps+Engineer;Lifelong+Tech+Explorer+%F0%9F%9A%80" 
-    alt="Typing SVG" 
-    style="max-width: 100%; white-space: nowrap;"
-  />
+<h2 align="left">Thanuja • Software Engineer | Backend & DevOps Enthusiast 🇱🇰</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
----
+###
 
-<!-- Summary -->
-### About Me
-<div style="background-color:#121b22; border-left: 5px solid #00ff7f; padding: 15px; border-radius: 8px; color:#a1e6a1;">
-  🚀 Crafting seamless solutions while driving innovation in <b>DevOps</b> and <b>modern web technologies</b>.<br><br>
-  - Ask me about Full Stack Web Dev, DevOps, or Cloud Native tools<br>
-  - Reach me: <code style="background:#002200; color:#00ff7f; padding: 2px 6px; border-radius:4px;">thanujapriyadarshane26@gmail.com</code><br>
-  - Portfolio: <a href="https://imthanuja.com" target="_blank" style="color:#00ff7f; text-decoration: underline;">imthanuja.com</a>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thanujaDev26/thanujaDev26/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:thanujaDev26?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
----
+###
 
-<!-- GitHub Stats -->
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 15px #00ff7f; margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanujaDev26&theme=dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff7f&icon_color=00ff7f" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanujaDev26&theme=dark&hide_border=true&background=0d1117&stroke=00ff7f&fire=00ff7f" alt="GitHub Streak" />
-  <br /><br />
-</div>
-
----
-
-<!-- Tech Stack -->
-#### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="margin: 12px;" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 12px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
-
-
-#### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="margin: 12px;"/>
-</p>
-
-#### CI/CD & Tools
-<p>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="60" style="margin: 12px;"/>
-</p>
-
-#### Deployment & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" style="margin: 12px;"/>
-</p>
-
-#### Cloud Providers
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" style="margin-left: 20px;"/>
-</p>
-</div>
-
----
-
-<!-- Connect Section -->
-
-### 📬 Connect with Me
-
-<div align="center" style="display: flex; justify-content: center; gap: 24px; margin-top: 20px; flex-wrap: wrap;">
-
-  <a href="https://linkedin.com/in/thanuja-priyadarshane" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/0" alt="Medium post 1"  />
   </a>
-
-  <a href="https://facebook.com/thanuja.priyadarshana.14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/1" alt="Medium post 2"  />
   </a>
-
-  <a href="https://instagram.com/_thanuja10_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="border-radius: 50%;" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/2" alt="Medium post 3"  />
   </a>
-
-  <a href="https://wa.me/94767274497" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-
 </div>
 
+###
 
+<div align="left">
+  <a href="https://www.instagram.com/_thanuja10_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thanuja-priyadarshane/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="thanujapriyadarshane26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/thanuja.priyadarshana.14/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@consolevlog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@thanujapriyadarshane26" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
+###
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanujaDev26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<!-- Profile views -->
-<p align="center" style="color:#00ff7f; font-weight: bold;">
-  <img src="https://komarev.com/ghpvc/?username=thanujaDev26&label=Profile%20Views&color=00ff7f&style=flat" />
-</p>
+###
