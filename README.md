@@ -1,68 +1,71 @@
-<h2 align="left">Thanuja • Software Engineer | Backend & DevOps Enthusiast 🇱🇰</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://count.getloli.com/@:thanujaDev26?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
-###
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Thanuja%20Priyadarshane&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Marketer%20%7C%20Traveller%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=16&descColor=a8c5da" />
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thanujapriyadarshane26/2" alt="Medium post 3"  />
-  </a>
-</div>
+  </div>
 
-###
+  ---
 
-<div align="left">
-  <a href="https://www.instagram.com/_thanuja10_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thanuja-priyadarshane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="thanujapriyadarshane26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/thanuja.priyadarshana.14/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@consolevlog" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://medium.com/@thanujapriyadarshane26" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+  ### About Me
 
-###
+  Backend-focused software engineer with a passion for building scalable systems, clean APIs, and cloud-native infrastructure. Beyond the terminal, I explore marketing strategy and find inspiration through travel.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanujaDev26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  ---
 
-###
+  ### Tech Stack
+
+  **Languages**
+
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go" title="Go" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+  </div>
+
+  <br/>
+
+  **Cloud & Infrastructure**
+
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" title="Google Cloud" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" title="Kubernetes" />
+  </div>
+
+  ---
+
+  ### Connect
+
+  <div align="left">
+    <a href="https://www.linkedin.com/in/thanuja-priyadarshane/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/linkedin.svg" height="42" alt="LinkedIn" title="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@thanujapriyadarshane26" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/medium.svg" height="42" alt="Medium" title="Medium" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:thanujapriyadarshane26@gmail.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/gmail.svg" height="42" alt="Gmail" title="Gmail" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/_thanuja10_/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/instagram.svg" height="42" alt="Instagram" title="Instagram" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@consolevlog" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/youtube.svg" height="42" alt="YouTube" title="YouTube" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/thanuja.priyadarshana.14/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/facebook.svg" height="42" alt="Facebook" title="Facebook" />
+    </a>
+  </div>
+
+  <br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" />
